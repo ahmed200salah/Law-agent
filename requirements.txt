@@ -1,0 +1,12 @@
+fastapi
+supabase
+pydantic
+python-dotenv
+httpx
+uvicorn
+pydantic-ai
+pydantic-ai-slim
+pydantic-graph
+langfuse
+logfire-api
+devtools
